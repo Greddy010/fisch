@@ -15,7 +15,7 @@ AutoLowerGraphics := true
 AutoGraphicsDelay := 50
 
 ; Set to true to automatically zoom in the camera
-AutoZoomInCamera := true
+AutoZoomInCamera := false
 AutoZoomDelay := 50
 
 ; Set to true to check for camera mode and enable it
@@ -23,7 +23,7 @@ AutoEnableCameraMode := true
 AutoCameraDelay := 5
 
 ; Set to true to automatically look down
-AutoLookDownCamera := true
+AutoLookDownCamera := false
 AutoLookDelay := 200
 
 ; Set to true to automatically blur the camera
